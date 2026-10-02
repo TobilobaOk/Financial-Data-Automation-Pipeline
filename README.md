@@ -136,6 +136,9 @@ The workflow demonstrates practical application of:<br>
 
 A redacted screenshot of the original bank statement is included in the repository to demonstrate the source document and its scale.<br>
 
+<img width="357" height="291" alt="image" src="https://github.com/user-attachments/assets/033e3253-9de1-4531-94d8-9a9a5f65eedb" />
+
+
 Additional documentation and the Python classification script are provided in the repository.<br>
 
 # 12. Author
