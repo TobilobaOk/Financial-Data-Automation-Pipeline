@@ -111,6 +111,9 @@ The repository excludes:<br>
 • Customer information<br>
 • Sensitive financial records<br>
 
+<img width="641" height="421" alt="image" src="https://github.com/user-attachments/assets/dad49794-358a-4066-888c-746c1cbda55c" />
+
+
 A redacted screenshot is included to demonstrate the source document without exposing confidential information.<br>
 
 # 10. Project Outcome
