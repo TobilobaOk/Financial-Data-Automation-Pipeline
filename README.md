@@ -134,7 +134,7 @@ The workflow demonstrates practical application of:<br>
 
 # 11. Visualization / Documentation
 
-A redacted screenshot of the original bank statement is included in the repository to demonstrate the source document and its scale.<br>
+This summary table consolidates the categorized transactions from the entire bank statement, making the financial activity easier to review, analyze, and report.<br>
 
 <img width="357" height="291" alt="image" src="https://github.com/user-attachments/assets/033e3253-9de1-4531-94d8-9a9a5f65eedb" />
 
